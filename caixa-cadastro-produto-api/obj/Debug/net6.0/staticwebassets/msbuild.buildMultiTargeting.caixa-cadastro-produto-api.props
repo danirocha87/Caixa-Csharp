@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\caixa-cadastro-produto-api.props" />
+</Project>
